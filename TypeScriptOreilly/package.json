@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@types/node": "^13.11.1",
+    "tslint": "^6.1.1"
+  }
+}
